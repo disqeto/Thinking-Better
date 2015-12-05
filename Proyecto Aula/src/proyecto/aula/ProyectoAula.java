@@ -7,7 +7,7 @@ package proyecto.aula;
 
 /**
  *
- * @author omari
+ * @author Alumno
  */
 public class ProyectoAula {
 
@@ -16,6 +16,7 @@ public class ProyectoAula {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        Preguntas graf = new Preguntas();
     }
     
 }

@@ -11,4 +11,7 @@ package proyecto.aula;
  */
 public class Evaluacion {
     
+    public void preguntas(){
+       
+    }
 }
